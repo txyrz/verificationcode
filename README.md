@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -11,35 +10,18 @@
   <body>
     <div class="" style="margin: 10px 20px">
       <div>
-		<div>
-		  <a class="btn btn-danger pull-right" href="http://api10.verificationcode.net/order?token=94b0eb35c0d482dfdd5f7f3704ba4270ae523b725ddf6d55f54a36b3ed20d48d&reseller"><b>(NEW)</b> Click here to resell your numbers to others!</a>
-                  <a class="btn btn-default pull-right" href="http://api10.verificationcode.net/order?token=94b0eb35c0d482dfdd5f7f3704ba4270ae523b725ddf6d55f54a36b3ed20d48d&clear">Clear</a>
-		  <h3>Basic Information of Your Order </h3>
-		</div>
+        <h3>Basic Information of Your Order </h3>
         <hr>
-		<div class="row">
-		</div>
         <div class="row">
-	      <div class="col-md-8">	
           <ul>
-            <li>App: <b class="text-danger">ONLY FOR WeChat </b></li>
-            <li>Count of numbers: 10/10</li>
-            <li>Ordering time: 2017-9-28 11:50:40</li>
-			<li><b class="text-danger">U.S. Numbers with 5~15 DAYS GUARANTEE! Please leave us a message in Skype to confirm the assurance.</b></li>
-			<li><b>SAMPLE</b> Number 13213214321 means COUNTRY CODE: +1, LOCAL NUMBER: (321) 321-4321</li>
+            <li>App: Fully Functioning</li>
+            <li>Count of numbers: 1/1</li>
+            <li>Ordering time: 2017-01-03 05:03:58</li>
           </ul>
-        </div>
-        <div class="col-md-9" style2="border: 2px solid #f00; padding: 5px;">        </div>
         </div>
       </div>
       <div>
-        <div>
-          <h3 id="section-phones">
-            <div class="pull-right">
-                            </div>
-            Number List
-          </h3>
-        </div>
+        <h3 id="section-phones">Number List</h3>
         <hr>
         <table class="table table-bordered table-stripped" id="sms-table">
           <thead>
@@ -51,89 +33,50 @@
 			      <th>Receiving Time</th>
           </thead>
           <tbody>
-							<tr style="user-select: none;" class="number-item" number="14432360539">
+							<tr number="+19082917846">
 					<td>1</td>
-					<td>14432360539</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-				</tr>
-							<tr style="user-select: none;" class="number-item" number="18142140666">
-					<td>2</td>
-					<td>18142140666</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-				</tr>
-							<tr style="user-select: none;" class="number-item" number="14107551536">
-					<td>3</td>
-					<td>14107551536</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-				</tr>
-							<tr style="user-select: none;" class="number-item" number="15707810588">
-					<td>4</td>
-					<td>15707810588</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-				</tr>
-							<tr style="user-select: none;" class="number-item" number="15704810363">
-					<td>5</td>
-					<td>15704810363</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-				</tr>
-							<tr style="user-select: none;" class="number-item" number="14345847591">
-					<td>6</td>
-					<td>14345847591</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-				</tr>
-							<tr style="user-select: none;" class="number-item" number="18142583856">
-					<td>7</td>
-					<td>18142583856</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-				</tr>
-							<tr style="user-select: none;" class="number-item" number="15402770674">
-					<td>8</td>
-					<td>15402770674</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-				</tr>
-							<tr style="user-select: none;" class="number-item" number="15719322645">
-					<td>9</td>
-					<td>15719322645</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-				</tr>
-							<tr style="user-select: none;" class="number-item" number="12154581513">
-					<td>10</td>
-					<td>12154581513</td>
-					<td><xsmall>Waiting for SMS</xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
-					<td><xsmall></xsmall></td>
+					<td>+19082917846</td>
+					<td>SMS received</td>
+					<td>+13143669444</td>
+					<td>【阿里巴巴】您正在重置密码，验证码257603，请在15分钟内按页面提示提交验证 
+码，切勿将验证码泄露于他人。
+您的帐号  帮助中心
+<https://support.google.com/voice#topic=1707989> 帮助论坛
+<https://productforums.google.com/forum/#!forum/voice>
+如要修改关于text messages的电子邮件偏好设置，请在您的帐号中转到电子邮件通知 
+设置
+<#voicemailsettings>。
+Google Inc.
+1600 Amphitheatre Pkwy
+Mountain View CA 94043 USA</td>
+					<td>2017-07-26 08:50:05</td>
 				</tr>
 			          </tbody>
         </table>
       </div>
 
 
-   
+    <script src="/static/jquery/jquery-1.11.1.min.js"></script>
+    <script src="/static/site/common.js"></script>
+    <script src="/static/select2/select2.min.js"></script>
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+    <script>
+      $(document).ready(function() {
+        setInterval(function() {
+          $.get("/view-update?t=5ff2c868ccd6ec0be5dac2c27b33abfd2fb1f1da938d2775057a28bdcc0ece17", function (data) {
+            data = eval(data);
+            
+            for (var i = 0, l = data.length; i < l; ++i) {
+              var tds = $("tr[number$="+data[i][0].substr(1)+"] td");
+              if ($(tds[4]).text() != data[i][2]) {
+                $(tds[3]).text(data[i][1]);
+                $(tds[4]).text(data[i][2]);
+                $(tds[5]).text(data[i][3]);
+              }
+            }
+          });
+        }, 10000);
+      });
+    </script>
+  </body>
+</html>
